@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4-0)*%
+%TF.CreationDate,2022-05-31T11:34:18+03:00*%
+%TF.ProjectId,Supernova_Solder,53757065-726e-46f7-9661-5f536f6c6465,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.4-0)) date 2022-05-31 11:34:18*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.500000X1.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,LED1*%
+X347593750Y-98412500D03*
+X347593750Y-101612500D03*
+X352493750Y-101612500D03*
+X352493750Y-98412500D03*
+%TD*%
+M02*
